@@ -72,12 +72,12 @@ li{
 
 a{
     text-decoration: none;
-    color: rgb(224, 64, 64);
+    color: rgb(168, 224, 64);
 }
 
 a:hover{
-    background-color: aqua;
-    color: red;
+    background-color: rgb(3, 215, 215);
+    color: rgb(203, 43, 3);
 }
 
 h1{
